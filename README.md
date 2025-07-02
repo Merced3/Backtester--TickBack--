@@ -6,6 +6,7 @@ Backtester App is a web application that allows users to perform backtesting on 
 
 ## Project Structure
 
+```bash
 backtester-app/
 ├── .github/workflows/
 │ └── ci.yml
@@ -36,6 +37,7 @@ backtester-app/
 ├── deploy.sh
 ├── package.json
 └── README.md
+```
 
 ## Current Status
 
